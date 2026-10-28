@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31857931/README.md)
 # SaludPlus
 
 Sistema de gestión de turnos médicos: la administración carga sedes, especialidades y
@@ -15,6 +14,9 @@ profesionales; los pacientes reservan, reprograman y califican sus consultas.
 
 Trabajo Práctico de la materia **Desarrollo de Software (UTN)**. No es un paquete publicado ni
 tiene pipeline de CI — las badges de stack son informativas.
+
+> **Este repositorio es una copia del proyecto desarrollado en equipo.**
+> Repositorio original: [nerffo/utn-dsw-saludplus](https://github.com/nerffo/utn-dsw-saludplus)
 
 ## Índice
 
@@ -44,6 +46,11 @@ tiene pipeline de CI — las badges de stack son informativas.
 | _53260_ | _Lavatti, Valentino_ |
 | _49195_ | _Brassart, Selene_ |
 | _53219_ | _Virgolin, Iván_ |
+
+**Mi participación (Selene):** trabajé en pair programming con el equipo en ... _(completá con lo
+que realmente hiciste: módulos, pantallas, validaciones, pruebas, etc.)_. Los commits del
+repositorio original fueron realizados por mis compañeros durante las sesiones de trabajo en
+conjunto.
 
 ## Acerca del proyecto
 
@@ -86,7 +93,7 @@ Funcionalidades principales:
 
 ## Capturas
 
-<img width="1920" height="877" alt="image" src="https://github.com/user-attachments/assets/c0bbc873-fe15-45e1-940d-dec3b310517c" />
+<img width="1920" height="877" alt="Captura de SaludPlus" src="https://github.com/user-attachments/assets/c0bbc873-fe15-45e1-940d-dec3b310517c" />
 
 ## Stack
 
@@ -178,8 +185,8 @@ No hace falta tener `psql` en el `PATH`: el esquema se aplica con el driver `pg`
 ## Instalación
 
 ```bash
-git clone https://github.com/nerffo/utn-dsw-saludplus.git
-cd utn-dsw-saludplus
+git clone https://github.com/selebrassart/SaludPlus-Turnos.git
+cd SaludPlus-Turnos
 
 npm install
 ```
@@ -338,5 +345,6 @@ para la cátedra de Desarrollo de Software, UTN. Todos los derechos reservados a
 - Cátedra de Desarrollo de Software, UTN FRRo — consigna y seguimiento del TP.
 - [Next.js](https://nextjs.org/) y [Drizzle ORM](https://orm.drizzle.team/) por la documentación
   de referencia usada durante el desarrollo.
-#   S a l u d P l u s - T u r n o s  
+
+ 
  
