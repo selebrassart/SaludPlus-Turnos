@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!--
+    Ícono de la pestaña del navegador. Next.js lo toma solo por estar acá y
+    llamarse `icon.svg`: no hace falta declararlo en el layout.
+
+    Es el mismo logo de la barra superior —el cuadrado azul con el pulso—,
+    redibujado para que se lea a 16 píxeles: el trazo es más grueso y el
+    radio de las esquinas proporcionalmente menor que en la aplicación,
+    porque a ese tamaño un borde muy redondeado se ve como un círculo.
+  -->
+  <rect width="32" height="32" rx="7" fill="#2563eb" />
+  <path
+    d="M27 16h-5l-3.5 9.5L13 6.5 9.5 16H5"
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="2.75"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
